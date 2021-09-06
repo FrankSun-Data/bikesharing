@@ -21,6 +21,11 @@
 ![User trips by gender by weekday](https://user-images.githubusercontent.com/82552516/127794496-0da3c56d-a57a-4969-a7fd-27827a0980d3.png)
 
 
+* The figure below shows the gender breakdown. There are more male users than female users.
+![Gender breakdown](https://user-images.githubusercontent.com/82552516/132262575-7be724d8-9cd4-49b5-9039-fc53b668540a.png)
+
+
+
 # Summary
 * After conducting this analysis, it is obvious that majority users will ride within 30 minutes and male users take a significant proportion among all users. Majority rides happen around 5-6 pm on weekdays.
 * An additional visualization analysis can be focused on the relationship between users' age and trips.
